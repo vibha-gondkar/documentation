@@ -4,7 +4,9 @@ This [repository](https://github.com/mosip/resident-ui) contains the UI code for
 
 ## Build and Deployment
 
-_Note_: The code is written in Angular JS.
+{% hint style="info" %}
+The code is written in Angular JS.
+{% endhint %}
 
 * Install `node.js`- To build the angular code using angular cli that runs on node, recommended Node: 14.17.3, Package Manager: npm 6.14.13
 * Install `angular cli` – To install angular cli for building the code into deployable artifacts. Follow the following steps to install angular cli on your system.
