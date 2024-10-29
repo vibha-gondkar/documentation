@@ -110,4 +110,4 @@ Below are the configurations to be done in Eclipse:
 
 ## Authentication Service API
 
-* For API documentation, refer [here](https://docs.mosip.io/1.2.0/api).
+* For API documentation, refer [here](https://mosip.github.io/documentation/1.2.0/authentication-service.html#section/Authentication).
